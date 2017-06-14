@@ -7,8 +7,8 @@ import os
 
 import math
 import numpy as np
-from watermark import FFT
-from LSB1 import LSB
+from watermark-fft import FFT
+from watermark-lsb import LSB
 from PIL import Image, ImageTk
 
 
